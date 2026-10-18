@@ -1,7 +1,14 @@
+# Dependencias y compilados
 node_modules/
+dist/
+*.class
+
+# Configuración local y secretos
 .env
 *.env
 .vscode/
 *.log
+
+# Archivos del sistema operativo
 .DS_Store
 Thumbs.db
